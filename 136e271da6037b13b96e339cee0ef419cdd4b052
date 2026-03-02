@@ -1,0 +1,27 @@
+cmuxTests/WorkspaceDirectorySettingsTests.swift
+  3a2dc81644d07eaf 1-19,21-23,28-41,43-50,52-55,57,59,81,84,98-99,101-114,119-131,134-142
+Sources/cmuxApp.swift
+  3a2dc81644d07eaf 2739,2773,2782-2785,2794,2950-2951,2953-2954,2956-2957,2974-2985,2987-2989,3688,3874,3876,3878,3884
+Sources/TabManager.swift
+  3a2dc81644d07eaf 149-150,152-158,161-167,170-181,183,185-186,188-189,191-195,197-200,208-232,256,261-263,882,987-989,991-992,995
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.5",
+  "base_commit_sha": "136e271da6037b13b96e339cee0ef419cdd4b052",
+  "prompts": {
+    "3a2dc81644d07eaf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019caf93-b154-7e10-a60e-8f7469f15458",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "alanagoyal <alanaan@gmail.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 201,
+      "overriden_lines": 0
+    }
+  }
+}
